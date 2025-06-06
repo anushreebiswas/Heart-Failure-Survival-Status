@@ -68,9 +68,10 @@ This dashboard visualizes both categorical and continuous risk factors, helping 
 
 ---
 
-## Source
+## Source:
 
-- Dataset: [Heart Failure Clinical Records Dataset – Kaggle](https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data)
+Dataset from Davide Chicco, Giuseppe Jurman: â€œMachine learning can predict survival of patients with heart failure from serum creatinine and ejection fraction alone. BMC Medical Informatics and Decision Making 20, 16 (2020)
+Dataset:[Heart Failure Clinical Records Dataset – Kaggle](https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data)
 
 ---
 
